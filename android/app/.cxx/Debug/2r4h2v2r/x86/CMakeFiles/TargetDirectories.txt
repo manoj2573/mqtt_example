@@ -1,0 +1,2 @@
+/Users/manojvarma/Desktop/mqtt_example/android/app/.cxx/Debug/2r4h2v2r/x86/CMakeFiles/edit_cache.dir
+/Users/manojvarma/Desktop/mqtt_example/android/app/.cxx/Debug/2r4h2v2r/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485984472258",
+    "project_id": "motorcontrol-ea9cc",
+    "storage_bucket": "motorcontrol-ea9cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485984472258:android:aaa1590a7beff38fd6bf5b",
+        "android_client_info": {
+          "package_name": "com.example.mqtt_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS5ST9Gu9HCOl032tVCXajcyOjCgZkRu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

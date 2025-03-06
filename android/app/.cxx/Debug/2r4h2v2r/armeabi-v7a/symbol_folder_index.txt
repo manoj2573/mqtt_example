@@ -1,0 +1,1 @@
+/Users/manojvarma/Desktop/mqtt_example/build/app/intermediates/cxx/Debug/2r4h2v2r/obj/armeabi-v7a

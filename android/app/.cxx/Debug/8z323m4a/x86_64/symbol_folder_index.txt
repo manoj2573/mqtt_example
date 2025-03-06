@@ -1,0 +1,1 @@
+/Users/manojvarma/Desktop/mqtt_example/build/app/intermediates/cxx/Debug/8z323m4a/obj/x86_64
