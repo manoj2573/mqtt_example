@@ -1,6 +1,6 @@
 # motor controller
 
-A new Flutter project.
+switching and checking motor status using mqtt aws iot core as mqtt broker.
 
 ## Getting Started
 
